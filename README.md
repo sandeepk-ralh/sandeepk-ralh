@@ -28,7 +28,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/java-logo.svg" alt="Java"> <img height="48" src="javascript-original.svg" alt="JavaScript"> <img height="48" src="selenium-original.png" alt="Selenium WebDriver"> <img height="48" src="TestNG-original.png" alt="TestNG"> <img height="48" src="cucumber-original.svg" alt="Cucumber"> <img height="48" src="maven-original.svg" alt="Maven"> <img height="48" src="gradle-original.png" alt="Gradle"> <img height="48" src="wdio-original.png" alt="WDIO"> <img height="48" src="jenkins-original.png" alt="Jenkins"> <img height="48" src="browserstack-original.png" alt="BrowserStack"> <img height="48" src="docker-original.svg" alt="docker"> <img height="48" src="linux-original.svg" alt="Linux"> <img height="48" src="postman-original.svg" alt="POSTMAN"> <img height="48" src="git-original.svg" alt="Git">
+<img height="48" src="img/java-logo.svg" alt="Java"> <img height="48" src="img/javascript-original.svg" alt="JavaScript"> <img height="48" src="img/selenium-original.png" alt="Selenium WebDriver"> <img height="48" src="img/TestNG-original.png" alt="TestNG"> <img height="48" src="img/cucumber-original.svg" alt="Cucumber"> <img height="48" src="img/maven-original.svg" alt="Maven"> <img height="48" src="img/gradle-original.png" alt="Gradle"> <img height="48" src="img/wdio-original.png" alt="WDIO"> <img height="48" src="img/jenkins-original.png" alt="Jenkins"> <img height="48" src="img/browserstack-original.png" alt="BrowserStack"> <img height="48" src="img/docker-original.svg" alt="docker"> <img height="48" src="img/linux-original.svg" alt="Linux"> <img height="48" src="img/postman-original.svg" alt="POSTMAN"> <img height="48" src="img/git-original.svg" alt="Git">
 
 #### Development Activity:
 
